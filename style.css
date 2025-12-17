@@ -49,6 +49,18 @@ a:hover {
   text-decoration: underline;
 }
 
+.circle-btn {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #333;
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
 /* Footer (optional) */
 footer {
   margin-top: 24px;
